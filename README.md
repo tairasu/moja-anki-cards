@@ -22,11 +22,12 @@ Die Skripts des Decks funktionieren zwar ohne Addon, aber ihr könnt dann nicht 
 
 Manchmal haben Wörter mehrere Pitch-Accents. Diese werden dann zusätzlich abgespielt und mit einem farbigen Diamanten versehen.
 
-Blau = Heiban
-Rot = Atamadaka
-Orange = Nakadaka
-Grün = Odaka
-Pink = Kifuku
+- Blau = Heiban
+- Rot = Atamadaka
+- Orange = Nakadaka
+- Grün = Odaka
+- Pink = Kifuku
+
 (Googelt einfach was das bedeutet 😅)
 Es wird jedoch immer die gängigste Form zuerst abgespielt.
 
