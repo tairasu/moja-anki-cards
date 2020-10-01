@@ -13,6 +13,10 @@ Mich würde es freuen, wenn das Deck von zukünftigen HHU-Studenten gepflegt, er
 ### Zum Deck/Installation:
 Ihr importiert einfach die Datei .apkg Datei in euer Anki und schon könnt ihr loslegen. Das Deck erlaubt standardmäßig 20 Karten pro Tag. Ihr könnt das in den Optionen ändern, aber ihr solltet nicht zu viele auf einmal machen, da ihr sonst mit Reviews überwältigt werdet. Verteilt lieber alles gleichmäßig.
 Die Skripts des Decks funktionieren zwar ohne Addon, aber ihr könnt dann nicht auf die Wörter klicken um das Audio erneut abzuspielen. Alternativ könnt ihr natürlich auch das Anki Addon “Migaku” installieren. Der Autor aktualisiert das Addon nur alle 6 Monate also braucht ihr wahrscheinlich eine bestimmte Version von Anki.
+
+#### Download
+[Version 1.0](https://github.com/aomizu/anki/blob/main/Minna%20no%20Nihongo%20I%20Vokabeln%201-17.apkg)
+
 #### Funktionen:
 - Mouseover:
 -- Popup mit Hiragana, Wörterbuchform und Pitch-Accent
