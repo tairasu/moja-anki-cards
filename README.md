@@ -15,7 +15,7 @@ Ihr importiert einfach die Datei .apkg Datei in euer Anki und schon könnt ihr l
 Die Skripts des Decks funktionieren zwar ohne Addon, aber ihr könnt dann nicht auf die Wörter klicken um das Audio erneut abzuspielen. Alternativ könnt ihr natürlich auch das Anki Addon “Migaku” installieren. Der Autor aktualisiert das Addon nur alle 6 Monate also braucht ihr wahrscheinlich eine bestimmte Version von Anki.
 
 #### Download
-1. Semester (Lektionen 1-17): [Version 1.1.0](https://github.com/aomizu/anki/raw/main/Minna%20no%20Nihongo%20I%20Vokabeln%201-17_1.1.apkg)
+1. Semester (Lektionen 1-17): [Version 1.2](https://github.com/aomizu/anki/raw/main/Minna%20no%20Nihongo%20I%20Vokabeln%201-17_1.2.apkg)
 2. Semester (Lektionen 18-35): [Version 2.0](https://github.com/aomizu/anki/raw/main/Minna%20no%20Nihongo%20II%20Vokabeln%2018-35.apkg)
 
 #### Funktionen:
