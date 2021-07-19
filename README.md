@@ -1,4 +1,4 @@
-# Minna no Nihongo I+II (Deutsch) Anki Deck Lektionen 1-17 + 18-35
+# Minna no Nihongo I+II (Deutsch) Anki Deck Lektionen 1-17 + 18-35 + 36-50
 
 [![N](https://japanese4life.com/wp-content/uploads/2018/04/anki-logo.png)](https://apps.ankiweb.net) 
 
@@ -17,6 +17,7 @@ Die Skripts des Decks funktionieren zwar ohne Addon, aber ihr könnt dann nicht 
 #### Download
 1. Semester (Lektionen 1-17): [Version 1.2](https://github.com/aomizu/anki/raw/main/Minna%20no%20Nihongo%20I%20Vokabeln%201-17_1.2.apkg)
 2. Semester (Lektionen 18-35): [Version 2.0](https://github.com/aomizu/anki/raw/main/Minna%20no%20Nihongo%20II%20Vokabeln%2018-35.apkg)
+3. Semester (Lektionen 36-50): [Version 3.0](https://github.com/aomizu/anki/blob/main/Minna%20no%20Nihongo%20III%20Vokabeln%2036-50.apkg)
 
 #### Funktionen:
 - Mouseover:
