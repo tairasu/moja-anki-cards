@@ -1,6 +1,6 @@
 # Minna no Nihongo I+II (Deutsch) Anki Deck Lektionen 1-17 + 18-35 + 36-50
 
-[![N](https://japanese4life.com/wp-content/uploads/2018/04/anki-logo.png)](https://apps.ankiweb.net) 
+[![N](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki-icon.svg/120px-Anki-icon.svg.png)](https://apps.ankiweb.net) 
 
 Ich habe im 1. Semester die Vokabeln aus dem Buch Minna no Nihongo I in Anki gesetzt und mit einigen Scripts von externen Addons (MIA/Migaku) versehen. Dadurch können die Kanji mit Furigana (Hiragana über dem Kanji) angezeigt werden. Das Deck zeigt euch immer erst die Kanji an. Wenn ihr mit der Maus über die Vokabel geht, seht ihr sogar den Pitch-Accent! Damit ihr direkt ein Gefühl für die Wörter bekommt, wird zu den meisten Vokabeln ein kurzes Audio abgespielt, das die richtige Aussprache wiedergibt.
 Das Deck ist nach den Lektionen 1-17 geordnet und ich habe alle unnötigen Zusatzvokabeln (Namen etc.) weggelassen.
